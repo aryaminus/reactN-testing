@@ -1,0 +1,7 @@
+npm install -g react-native-cli
+npm install -g yarn
+react-native init myapp
+cd /dir
+react-native run-android
+react-native start
+
